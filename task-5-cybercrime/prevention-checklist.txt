@@ -1,0 +1,8 @@
+The Golden UPI Rule: Never enter your PIN to receive money.
+Verify UPI IDs: Send ₹1 first to verify the recipient.
+Two-Factor Everything: Enable 2FA on Instagram, WhatsApp, and Gmail.
+Privacy Check: Set social media profiles to Private; don't share phone numbers in bios.
+Avoid Public Wi-Fi: Don't use campus/cafe Wi-Fi for banking; use mobile data.
+Check the URL: Ensure https:// and check for typos like [suspicious link removed].
+Limit App Permissions: Revoke access to Camera/Gallery for unnecessary apps.
+Report Scams: Use cybercrime.gov.in or Helpline 1930.
